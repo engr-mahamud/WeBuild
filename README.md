@@ -32,4 +32,4 @@ Our plan is to use Arduino to control the printer. Arduino is our first choice b
 These are the simplest of all the constraints. Preparing of comcrete mix-design will involve some trial and error process to finalize; which time-consuming but quite simple procedure.
 And finally the design of structure is quite straight forward; nothing much to say.
 
-So, let's print some Houses to live in.
+So, let's print some Houses to move in.
