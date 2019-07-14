@@ -22,6 +22,7 @@ The main problem is the printer size. First we need to make one scaled down prot
 To make this project live, there are two options for the type of printer.
 1. Robotic arm printer,
 2. Gantry printer.
+
 We need to finalize the type of printer after detailed testing of both the options.
 
 ### How to Solve the Problems: Customized programming for the printer
